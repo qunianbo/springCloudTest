@@ -10,7 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
+        <!--注册中心-->
         <module>eureka</module>
+        <module>server</module>
     </modules>
 
     <build>
