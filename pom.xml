@@ -13,6 +13,7 @@
         <!--注册中心-->
         <module>eureka</module>
         <module>server</module>
+        <module>web</module>
     </modules>
 
     <build>
